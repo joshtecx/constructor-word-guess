@@ -1,6 +1,13 @@
 const inquirer = require("inquirer");
 const word = require("./word.js");
 
+
+
+// I had all of the following written out already until I realized that I was doing
+// the assignment the wrong way. I put them here to potentially use after I get word.js
+// figured out. 
+
+
 // =========================================================
 // Variables
 // =========================================================

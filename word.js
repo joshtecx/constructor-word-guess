@@ -5,7 +5,8 @@ function word(letters){
     this.leters = letters;
     this.letterArray = [];
     this.displayLetters = function(){
-        
+       let word = "";
+       
     }
 }
 
